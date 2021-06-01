@@ -1,3 +1,3 @@
 function myFunction() {
-    alert("hello from the popup box :-)");
+    alert("I'am a pop up box :-)");
 }

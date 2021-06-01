@@ -1,4 +1,4 @@
-function phoenix() {
+function validation() {
     var name = document.forms["RegForm"]["Name"];
     var email = document.forms["RegForm"]["EMail"];
     var phone = document.forms["RegForm"]["Telephone"];
